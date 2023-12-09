@@ -1,0 +1,9 @@
+node_modules
+src
+public
+messages
+*.ts
+*.js
+*.json
+yarn.lock
+.next
